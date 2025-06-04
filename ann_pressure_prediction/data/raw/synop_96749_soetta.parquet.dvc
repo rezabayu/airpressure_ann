@@ -1,0 +1,5 @@
+outs:
+- md5: afb726d8d971ac78a08b09b8bed63e28
+  size: 1430586
+  hash: md5
+  path: synop_96749_soetta.parquet

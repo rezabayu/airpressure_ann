@@ -1,0 +1,5 @@
+# Ignore everything under data/ …
+/ann_pressure_prediction/data/**
+
+# …except any .dvc pointer files we create
+!/ann_pressure_prediction/data/**/*.dvc
