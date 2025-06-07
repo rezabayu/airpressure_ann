@@ -1,0 +1,5 @@
+outs:
+- md5: af60186e7fdd58268839435a1b19ff94
+  size: 1412474
+  hash: md5
+  path: synop_97230_ngurahrai.parquet

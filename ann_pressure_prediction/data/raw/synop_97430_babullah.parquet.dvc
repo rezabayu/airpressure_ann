@@ -1,0 +1,5 @@
+outs:
+- md5: c8b21fd15df19c19d13ad16e95bd90ff
+  size: 1418942
+  hash: md5
+  path: synop_97430_babullah.parquet
