@@ -1,0 +1,33 @@
+{
+  "feature_range": [
+    -1,
+    1
+  ],
+  "min_": [
+    0.0,
+    19.5,
+    22.6,
+    21.2,
+    0.0,
+    58.3,
+    1.0
+  ],
+  "max_": [
+    129.0,
+    26.8,
+    33.1,
+    28.0,
+    17.0,
+    100.0,
+    12.0
+  ],
+  "input_cols": [
+    "RAINFALL_LAST_MM",
+    "TEMP_DEWPOINT_C_TDTDTD",
+    "TEMP_DRYBULB_C_TTTTTT",
+    "TEMP_WETBULB_C",
+    "WIND_SPEED_FF",
+    "RELATIVE_HUMIDITY_PC",
+    "month"
+  ]
+}
